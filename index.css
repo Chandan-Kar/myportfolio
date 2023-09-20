@@ -107,6 +107,12 @@ nav{
     font-weight: 600;
     color: var(--text-color-third);
 }
+.nav-name img{
+    border-radius: 50%;
+    height: 60px; 
+   width: 60px;
+   margin-top: 8px;
+}
 .nav-logo span{
     position: absolute;
     top: -15px;
